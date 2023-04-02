@@ -1,0 +1,4102 @@
+[
+ {
+  "Age": 38,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12200,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 75200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12400,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 41,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 48200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19600,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 95300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 73300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39700,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 123400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21900,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 41900,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 54300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 16100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 93100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18400,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 48600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 43500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 47900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 68200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 61900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19400,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 57600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 31000,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 82300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 64600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21300,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 31200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 34100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 92600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 32600,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 68300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 41,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 35100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20800,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 85700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 140300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39800,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 108200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17900,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 61100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33300,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 33900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21800,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 54400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 54000,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 36,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 34800,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 58000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 36100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 90700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 44300,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 95200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 50500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 8600,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 33800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 147400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24800,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 92600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26600,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 66200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33100,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 45700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 60500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 48700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 110600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 17100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 60300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 75700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13200,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 70100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32400,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 42100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 41700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 96900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 65700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 41900,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 50200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12000,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 61700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14000,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 44500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 37,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 10000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 51900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 119100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 34500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 49200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26000,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 39000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 53400,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 35000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 104700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 49300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 10900,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 74000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 52500,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 57100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24600,
+  "Number of Transactions": 16,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 51400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28800,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 62100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 36,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 37300,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 103000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21100,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 97900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 40900,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 123100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24700,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 322500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33600,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 54800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20000,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 66500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23900,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 33700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 11700,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 73600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 71300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 74200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17700,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 40800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 72500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 25300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 53300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 66900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 45600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24400,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 83600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 45500,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 124700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 54700,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 101600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 32200,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 205900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 69700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16000,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 95700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24000,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 46100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 118600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 42,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 65400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 37,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 17700,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 149300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29800,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 125000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 39800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 43000,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 83500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15500,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 38700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 8700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 102400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 20,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13900,
+  "Number of Transactions": 14,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 57700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 16200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27100,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 43100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 22300,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 43700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 24,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 29500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 39600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18800,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 127500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 26400,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 33500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 16400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 48100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39500,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 52800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 54800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 52800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 46500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 36500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 22,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30400,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 202400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39800,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 71300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 62800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 69500,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 43900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 52200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32100,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 64400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15200,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 77400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 49800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 65900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 54100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 77400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 85900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 148600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 82100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24700,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 64400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 26300,
+  "Number of Transactions": 16,
+  "Broadband Access?": "No",
+  "Household Income ($)": 86200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 177100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 68300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 60900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 67900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15800,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 57300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 31700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 83600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 77500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20900,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 37900,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 85600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 22400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26600,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 43100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20800,
+  "Number of Transactions": 10,
+  "Broadband Access?": "No",
+  "Household Income ($)": 65700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 31100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 80500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 31200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 88400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 40200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 38900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 84000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 29500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 34400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 55800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15800,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 64900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 41100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 37,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13000,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 39100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 68100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 58200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18500,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 46500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27100,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 45100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 69900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18400,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 63700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 59200,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 40500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 67900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 62600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 36700,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 32400,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 35000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 10300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 114000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13800,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 78700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 179700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 22100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 157200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 67300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 22,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19400,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 49800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 19,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 54600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 43400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 41500,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 71100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 22,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23300,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 42100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29700,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 42200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 33200,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 63300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 37,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 56300,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 55700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 36,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 107900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 63500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 44800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18700,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 94700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 49700,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 112700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 114900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 8200,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 112700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 36300,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 60900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 50200,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 137800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 19,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13500,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 37500,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26800,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 52000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30300,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 166500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 46300,
+  "Number of Transactions": 18,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 88000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 14400,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 41800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 53400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 40900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 46700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 22,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 27700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 28100,
+  "Number of Transactions": 10,
+  "Broadband Access?": "No",
+  "Household Income ($)": 48900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20400,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 56600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 32500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33900,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 74500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 69800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 133400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 48100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 95900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 28700,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 76500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 50900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 43700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 72700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 30700,
+  "Number of Transactions": 0,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 140100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 64300,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 76600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 67200,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 65300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 37,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 62200,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 161100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 33100,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 64900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 21,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 26000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 59800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 87900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 53000,
+  "Number of Transactions": 12,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 174900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 46300,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 40700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32700,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 36700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 50900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 167800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19200,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 168500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18300,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 112100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17800,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 65500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 41800,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 7100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15500,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 22900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 120800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 10000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 25100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 53300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 137900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 32400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 85600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 90900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 26400,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 65500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 23,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 30400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 86200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24000,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 45900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17500,
+  "Number of Transactions": 0,
+  "Broadband Access?": "No",
+  "Household Income ($)": 76000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 82700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 9400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 57400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 34700,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 53700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 44200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 29900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 22,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20700,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 94800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29000,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 67300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 41200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 95200,
+  "Number of Transactions": 21,
+  "Broadband Access?": "No",
+  "Household Income ($)": 70400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21500,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 120600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 63900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 13900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 98800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 53300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 70400,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 30000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12400,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 93200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27800,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 84100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 124000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28000,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 75000,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 45500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 37,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14000,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 88400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 74900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 47200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 51700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 36,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 57200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 78700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 42900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 30700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 44200,
+  "Number of Transactions": 1,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 56000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 28000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 88400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 201700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 71600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 59000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 32100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 57300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 44500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 91900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 68300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 36000,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 93900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12600,
+  "Number of Transactions": 12,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 128800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 33300,
+  "Number of Transactions": 13,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 77900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 67700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 49400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 63300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23700,
+  "Number of Transactions": 1,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 55000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 35700,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 100700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19900,
+  "Number of Transactions": 10,
+  "Broadband Access?": "No",
+  "Household Income ($)": 148000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 22,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30600,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 59600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 51600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18000,
+  "Number of Transactions": 1,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 48400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 58500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 153000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 48800,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 86800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 42,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 46400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 57700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 36900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 46900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 16600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 57400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 91200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21400,
+  "Number of Transactions": 8,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 62100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 12500,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 38800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 49300,
+  "Number of Transactions": 13,
+  "Broadband Access?": "No",
+  "Household Income ($)": 90200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 9100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19200,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 159200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15900,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 52700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 40200,
+  "Number of Transactions": 13,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 73400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 55800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 58900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 81100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 68400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17300,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 55700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 42100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 45400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39500,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21400,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 10200,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 57200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18300,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 20600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 58300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 63400,
+  "Number of Transactions": 17,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 38200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 50400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 64000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 9500,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 87400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 56200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 100600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39500,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 51100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23400,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 90100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 34100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 50800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 62500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 12600,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 37400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29200,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 102700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 42600,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 68400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 68800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11200,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 108000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 30500,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 200500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 39300,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 123000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 38,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 64300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 38400,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 72600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 21,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 35300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 81500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15800,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 57000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 101500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24700,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 67600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30800,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 70200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 17400,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 64800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 9100,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23300,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 50300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 15000,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 30300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 0,
+  "Number of Transactions": 14,
+  "Broadband Access?": "No",
+  "Household Income ($)": 61700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 31300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 103500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 34500,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 33400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 22,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 26300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 51700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 76400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 47400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 59300,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 118800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 34500,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 63200,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 97900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 7000,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 67400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 82000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15500,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 11800,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 98800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27700,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 61800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 14600,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 49600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17500,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 54700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 37900,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 153300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 13800,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 94400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 22100,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 39500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 72400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 93200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 161400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 56100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 53200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 95000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 15300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 94100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 25800,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 24300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 28,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 34200,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 49400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25000,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 41200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 24500,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 81800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25500,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 62400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19400,
+  "Number of Transactions": 14,
+  "Broadband Access?": "No",
+  "Household Income ($)": 117800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30600,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 100100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21100,
+  "Number of Transactions": 9,
+  "Broadband Access?": "No",
+  "Household Income ($)": 94100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 83300,
+  "Number of Transactions": 13,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 50700,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 89500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 29600,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 88900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 29700,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 53200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 12100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 58600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25000,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 54200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 37200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 38500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16600,
+  "Number of Transactions": 1,
+  "Broadband Access?": "No",
+  "Household Income ($)": 69800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 58000,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 66200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23400,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 78900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21500,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 87200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 33800,
+  "Number of Transactions": 15,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 79300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 51800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 13100,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 18100,
+  "Number of Transactions": 18,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 110900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 34300,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 109400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23500,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 43800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 49700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 23,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 16900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 149300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 22100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 68900,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27000,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 50100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 35,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 65200,
+  "Number of Transactions": 2,
+  "Broadband Access?": "No",
+  "Household Income ($)": 32400,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 11200,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 82700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 24800,
+  "Number of Transactions": 12,
+  "Broadband Access?": "No",
+  "Household Income ($)": 104300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 25,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 46500,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 49600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20000,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 36500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 38,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 16200,
+  "Number of Transactions": 1,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 65500,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27200,
+  "Number of Transactions": 9,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 110800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 11100,
+  "Number of Transactions": 3,
+  "Broadband Access?": "No",
+  "Household Income ($)": 38100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 33,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 18500,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 70700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21300,
+  "Number of Transactions": 1,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 39800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 19400,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 17000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 48200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 33,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28700,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 108700,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20700,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 71300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 17100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 110800,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 36,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 21000,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 120300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 38,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 21900,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 130000,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 61200,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 60300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 10200,
+  "Number of Transactions": 8,
+  "Broadband Access?": "No",
+  "Household Income ($)": 70300,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23600,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 100700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23900,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 72300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 28100,
+  "Number of Transactions": 5,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 45800,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 23600,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 51600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 34,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 70800,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 48200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 39,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 25100,
+  "Number of Transactions": 14,
+  "Broadband Access?": "No",
+  "Household Income ($)": 87900,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 22300,
+  "Number of Transactions": 7,
+  "Broadband Access?": "No",
+  "Household Income ($)": 89600,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 36200,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 56100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 20600,
+  "Number of Transactions": 12,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 93600,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 37,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 38300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 100300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 29,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 13800,
+  "Number of Transactions": 5,
+  "Broadband Access?": "No",
+  "Household Income ($)": 96000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 47000,
+  "Number of Transactions": 10,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 105500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 27,
+  "Gender": "Male",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 30300,
+  "Number of Transactions": 4,
+  "Broadband Access?": "No",
+  "Household Income ($)": 76400,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 31,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 37100,
+  "Number of Transactions": 6,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 77100,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 64100,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 62300,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 30,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 19300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 52700,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 27400,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 59000,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 23900,
+  "Number of Transactions": 2,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 42200,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 32,
+  "Gender": "Female",
+  "Real Estate Purchases?": "No",
+  "Value of Investments ($)": 27400,
+  "Number of Transactions": 7,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 83500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 26,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 14400,
+  "Number of Transactions": 3,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 28200,
+  "Have Children?": "Yes"
+ },
+ {
+  "Age": 24,
+  "Gender": "Male",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 36000,
+  "Number of Transactions": 4,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 103500,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 25,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 30300,
+  "Number of Transactions": 6,
+  "Broadband Access?": "No",
+  "Household Income ($)": 35100,
+  "Have Children?": "No"
+ },
+ {
+  "Age": 28,
+  "Gender": "Female",
+  "Real Estate Purchases?": "Yes",
+  "Value of Investments ($)": 30500,
+  "Number of Transactions": 11,
+  "Broadband Access?": "Yes",
+  "Household Income ($)": 36800,
+  "Have Children?": "Yes"
+ }
+]
